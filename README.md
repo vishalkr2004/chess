@@ -1,5 +1,5 @@
 # chess
-created a chess program from basic  c  language
+created a chess program from basic  c  language.
 This contains features like:
 The chess pieces could be accessed by mentioning the row and column which is displayed in the board while debugging
  moving chess  pieces to the desired user input location 
